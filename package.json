@@ -9,7 +9,8 @@
   "author": "Mako",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^14.16.1"
+    "discord.js": "^14.16.1",
+    "twitter-v2": "^1.1.0"
   },
   "devDependencies": {
     "eslint": "^9.10.0"
